@@ -249,7 +249,5 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 -include vendor/xiaomi/joyeuse/BoardConfigVendor.mk
 
 # Inherit GoogleCamera blobs
--include vendor/xiaomi/joyeuse-gcam/BoardConfigVendor.mk
+-include vendor/xiaomi/miatoll-gcam/BoardConfigVendor.mk
 
-# Inherit MiuiCamera blobs
--include vendor/xiaomi/joyeuse-miuicamera/BoardConfigVendor.mk
